@@ -16,7 +16,8 @@ h2
     font-family: monospace;
      font-size: 2.5rem;
        font-weight: normal;
- color: #66bfbf;
+
+ color: #66bfbf;
 }
 h3
 {
@@ -60,14 +61,16 @@ border-top-color: #bfcfcf;
 .bottom-cloud
 {
     position: absolute;
-     top: 50px; right:
+     top: 50px;
+ right:
       300px;
 }
 .top-cloud
 {
     position: absolute;
       bottom: 300px;
- left: 300px;
+
+ left: 300px;
 }
 
 .profile
@@ -120,8 +123,8 @@ border-top-color: #bfcfcf;
 }
 .bottom-container{
 height: 117px;
-width: 1349px;
 
+    
     margin-top: 8px;;
     margin-bottom: 22px;
     margin-right: 1px;
